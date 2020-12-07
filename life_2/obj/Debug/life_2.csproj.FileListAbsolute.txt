@@ -1,0 +1,8 @@
+D:\COD\C#\SDevProject\life\life_2\life_2\obj\Debug\life_2.csprojResolveAssemblyReference.cache
+D:\COD\C#\SDevProject\life\life_2\life_2\obj\Debug\life_2.MainForm.resources
+D:\COD\C#\SDevProject\life\life_2\life_2\obj\Debug\life_2.csproj.GenerateResource.Cache
+D:\COD\C#\SDevProject\life\life_2\life_2\bin\Debug\life_2.exe.config
+D:\COD\C#\SDevProject\life\life_2\life_2\bin\Debug\life_2.exe
+D:\COD\C#\SDevProject\life\life_2\life_2\bin\Debug\life_2.pdb
+D:\COD\C#\SDevProject\life\life_2\life_2\obj\Debug\life_2.exe
+D:\COD\C#\SDevProject\life\life_2\life_2\obj\Debug\life_2.pdb
