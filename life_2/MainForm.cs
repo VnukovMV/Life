@@ -96,7 +96,7 @@ namespace life_2
 				}
 			}
 			pictureBox1.Refresh();
-			Text = "Поколение " + ++countG + "    Популяция: "+countP + " ПредидущаяП: " + countOldP;
+			Text = "Поколение " + ++countG + "    Популяция: "+countP + " ПредыдущаяП: " + countOldP;
 			xfield = newXfield;
 			pictureBox1.Refresh();
 			if(countOldP == countP)
